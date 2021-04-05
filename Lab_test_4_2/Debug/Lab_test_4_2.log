@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Lab_test_4_2.cpp
+C:\Users\maksd\source\repos\Lab_4_2\Lab_test_4_2\Lab_test_4_2.cpp(18,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\maksd\source\repos\Lab_4_2\Debug\Lab_test_4_2.lib и объект C:\Users\maksd\source\repos\Lab_4_2\Debug\Lab_test_4_2.exp
+  Lab_test_4_2.vcxproj -> C:\Users\maksd\source\repos\Lab_4_2\Debug\Lab_test_4_2.dll
